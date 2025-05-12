@@ -1,0 +1,5 @@
+1. Walidacja schematu danych wejściowych
+2. Plik konfiguracyjny zamiast kodowania na sztywno
+3. Retry, alerting(IDEMPOTENT + Automatyzacja)
+4. Testy jednostkowe oraz smoke tests przed deploymentem
+5. Wersjonowanie i kontrola modeli 
